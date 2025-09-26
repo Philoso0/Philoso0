@@ -1,4 +1,4 @@
-## To Who Codes The World Better
+## To Whom Codes The World Better
 Welcome to Philoso's github space
 
 <!--
